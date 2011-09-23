@@ -1,6 +1,8 @@
 <?php
 
 	include_once 'DbCreds.php';
+	
+	// Gilad
 
 	class DbAccess {
 		var $query;
